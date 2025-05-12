@@ -42,7 +42,7 @@ All components are stateless and can be scaled independently.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/distributed-task-orchestrator.git
+   git clone https://github.com//Alphadavethedon/distributed-task-orchestrator.git
    cd distributed-task-orchestrator
    ```
 
@@ -78,7 +78,7 @@ Configuration is managed via YAML files or environment variables:
 ```yaml
 redis:
   addr: "redis:6379"
-  password: ""
+  password: "Welivefidis2025!"
   db: 0
 
 server:
